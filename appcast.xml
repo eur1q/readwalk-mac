@@ -4,6 +4,15 @@
     <title>Readwalk for Mac</title>
     <link>https://readwalk.app/mac</link>
     <item>
+      <title>Readwalk 1.4.2</title>
+      <pubDate>Thu, 22 Oct 2026 18:44:24 +0000</pubDate>
+      <sparkle:version>202610221137</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes Readwalk using a large amount of memory during long listening sessions; it now stays small however long you listen. Also includes the 1.4.1 pronunciation fixes.</p>]]></description>
+      <enclosure url="https://github.com/eur1q/readwalk-mac/releases/download/mac-v1.4.2/Readwalk.dmg" type="application/octet-stream" sparkle:edSignature="uLr+SuHwr8wMpXKC0gOvWcnx1xmVQ957LyVxMa766oePJDFlWObfXopatuFbHFCar1U4E7yGriB0rmBmW7spDQ==" length="30414671" />
+    </item>
+    <item>
       <title>Readwalk 1.4.1</title>
       <pubDate>Thu, 22 Oct 2026 18:31:18 +0000</pubDate>
       <sparkle:version>202610221109</sparkle:version>
