@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Readwalk for Mac</title>
+    <link>https://readwalk.app/mac</link>
+    <item>
+      <title>Readwalk 1.2</title>
+      <pubDate>Thu, 22 Oct 2026 15:56:45 +0000</pubDate>
+      <sparkle:version>202610220848</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: send highlighted text to Readwalk on your iPhone (Option-Shift-Escape), and automatic updates.</p>]]></description>
+      <enclosure url="https://github.com/eur1q/readwalk-mac/releases/download/mac-v1.2/Readwalk.dmg" type="application/octet-stream" sparkle:edSignature="WukhQpAo5msrvOs+uhX3GOsGUSTWiNOvT7gIQ9tX56UQeM6SBrFxwP4HUvNVRD6S9tKXAv6Vgz0KPPupq+vLAw==" length="30385807" />
+    </item>
+  </channel>
+</rss>
