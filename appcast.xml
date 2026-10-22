@@ -4,6 +4,15 @@
     <title>Readwalk for Mac</title>
     <link>https://readwalk.app/mac</link>
     <item>
+      <title>Readwalk 1.4.1</title>
+      <pubDate>Thu, 22 Oct 2026 18:31:18 +0000</pubDate>
+      <sparkle:version>202610221109</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Pronunciation fixes: &quot;copied&quot; and &quot;copies&quot; are now said correctly, and possessive names ending in y (Cathy&#x27;s, Andy&#x27;s, Emily&#x27;s) no longer sound like &quot;Cath-eyes&quot;.</p>]]></description>
+      <enclosure url="https://github.com/eur1q/readwalk-mac/releases/download/mac-v1.4.1/Readwalk.dmg" type="application/octet-stream" sparkle:edSignature="rVtzBl7c6AtSMrF/GmkBL6XU7xo29O5i38TEm/rE3+ExMcpLFejP/6Vz65Zy8c0b9S8zTExGMjpODHF+R0BEBA==" length="30417573" />
+    </item>
+    <item>
       <title>Readwalk 1.4</title>
       <pubDate>Thu, 22 Oct 2026 17:39:41 +0000</pubDate>
       <sparkle:version>202610221037</sparkle:version>
