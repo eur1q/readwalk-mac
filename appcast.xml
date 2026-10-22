@@ -4,6 +4,15 @@
     <title>Readwalk for Mac</title>
     <link>https://readwalk.app/mac</link>
     <item>
+      <title>Readwalk 1.4</title>
+      <pubDate>Thu, 22 Oct 2026 17:39:41 +0000</pubDate>
+      <sparkle:version>202610221037</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Send to iPhone right from the widget: tap the phone button, drag a file or link onto the widget, or use Send a File. Voice and Speed now have their own submenus. Clicking the Dock or menu bar icon brings the widget to the screen you&#x27;re on. Numbers, prices and dates read naturally. New mascot menu bar icon.</p>]]></description>
+      <enclosure url="https://github.com/eur1q/readwalk-mac/releases/download/mac-v1.4/Readwalk.dmg" type="application/octet-stream" sparkle:edSignature="9xncQgMaZ88EdLV0QbXwWuxaH545j9zjvB4DxANfObZLZk1anH5wuLGpHLdPkzEeV/n1zCBaueN64ergxubPDA==" length="30416306" />
+    </item>
+    <item>
       <title>Readwalk 1.3</title>
       <pubDate>Thu, 22 Oct 2026 16:11:05 +0000</pubDate>
       <sparkle:version>202610220909</sparkle:version>
