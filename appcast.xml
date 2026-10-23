@@ -4,6 +4,15 @@
     <title>Readwalk for Mac</title>
     <link>https://readwalk.app/mac</link>
     <item>
+      <title>Readwalk 1.5</title>
+      <pubDate>Fri, 23 Oct 2026 20:44:51 +0000</pubDate>
+      <sparkle:version>202610231343</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Send to iPhone now goes through your iCloud: highlighted text, the web page you&#x27;re on (even pages you&#x27;re signed in to), copied text, PDFs and Word documents land in Up Next on your iPhone. Redesigned widget: horizontal or vertical, three sizes, and a mini player while reading. Pronunciation fixes.</p>]]></description>
+      <enclosure url="https://github.com/eur1q/readwalk-mac/releases/download/mac-v1.5/Readwalk.dmg" type="application/octet-stream" sparkle:edSignature="QcNP14ojWSXVX+xkgdKNjjL7vkUjQJMrfkW2U5oeWuLNFD1UoSp8Rp10dGH+m2vSQpXiwLbvBSncxLH2mPR+BQ==" length="30539570" />
+    </item>
+    <item>
       <title>Readwalk 1.4.2</title>
       <pubDate>Thu, 22 Oct 2026 18:44:24 +0000</pubDate>
       <sparkle:version>202610221137</sparkle:version>
