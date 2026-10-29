@@ -4,6 +4,18 @@
     <title>Readwalk for Mac</title>
     <link>https://readwalk.app/mac</link>
     <item>
+      <title>Readwalk 1.7</title>
+      <pubDate>Thu, 29 Oct 2026 01:09:44 +0000</pubDate>
+      <sparkle:version>202610281807</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Talk to your Claude Code sessions by
+  voice: just speak and Readwalk finds the right session. Each session has its
+  own voice, replies reach your iPhone when you&#x27;re away, and clearer
+  pronunciation.</p>]]></description>
+      <enclosure url="https://github.com/eur1q/readwalk-mac/releases/download/mac-v1.7/Readwalk.dmg" type="application/octet-stream" sparkle:edSignature="Sg14/62iSPLY2woQR/skS0BQGqNG3BiNxYJELPhbU+i4G6/KlkKpm3SC6i7AC8fQK97TFkb9appZEUtcqbj4CQ==" length="30798707" />
+    </item>
+    <item>
       <title>Readwalk 1.6</title>
       <pubDate>Wed, 28 Oct 2026 04:15:29 +0000</pubDate>
       <sparkle:version>202610272111</sparkle:version>
