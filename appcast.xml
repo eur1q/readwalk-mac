@@ -4,6 +4,24 @@
     <title>Readwalk for Mac</title>
     <link>https://readwalk.app/mac</link>
     <item>
+      <title>Readwalk 1.8</title>
+      <pubDate>Sat, 31 Oct 2026 00:10:44 +0000</pubDate>
+      <sparkle:version>202610301708</sparkle:version>
+      <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Talk to all your Claude Code sessions by voice, from one place.
+
+- One controller: you talk to one session, and Readwalk sends what you say to the right one. Other sessions give a one-line headline in their own voice, and the controller gets their full reports.
+- Headlines keep the question: if a session ends with a question, you hear it, then &quot;There&#x27;s more: say read the rest.&quot;
+- One-click pause: click the red mic, or say &quot;pause&quot; or &quot;I&#x27;m on the phone&quot;, and Readwalk stops listening until you click again, press ⌃⌥⎋ or say &quot;Hey Readwalk&quot;. There&#x27;s also Pause Listening in the menu.
+- Talk over a reading: the mic button or ⌃⌥⎋ pauses whatever Readwalk is reading, so you don&#x27;t have to wait for it to finish.
+- Faster feedback: the pop sounds as soon as you&#x27;re heard, and a soft working tone plays while Readwalk finds the right session.
+- Sessions can ask you directly when they need your own approval (a sign-in, a permission), then hand you back.
+- &quot;Hey Readwalk&quot; wakes faster and understands more mishearings. Longer pauses before deciding you&#x27;ve finished talking.
+- Pronunciation: hyphenated words are read as one word (follow-up, sign-in, built-in), Wi-Fi is &quot;WY-fy&quot;, and &quot;read the rest&quot; says &quot;reed&quot;.</p>]]></description>
+      <enclosure url="https://github.com/eur1q/readwalk-mac/releases/download/mac-v1.8/Readwalk.dmg" type="application/octet-stream" sparkle:edSignature="Ribh55sOWRk6ufjeOEqhZskhNT3kWYICyEldsR16wFZMsJWbFsKUWtoLXfQVc6d1I3rfpwWbuhXy949/O6X+CA==" length="30923349" />
+    </item>
+    <item>
       <title>Readwalk 1.7</title>
       <pubDate>Thu, 29 Oct 2026 01:09:44 +0000</pubDate>
       <sparkle:version>202610281807</sparkle:version>
