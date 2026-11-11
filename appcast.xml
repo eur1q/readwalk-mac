@@ -4,6 +4,15 @@
     <title>Readwalk for Mac</title>
     <link>https://readwalk.app/mac</link>
     <item>
+      <title>Readwalk 1.9</title>
+      <pubDate>Wed, 11 Nov 2026 07:08:22 +0000</pubDate>
+      <sparkle:version>202611090920</sparkle:version>
+      <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Pair your iPhone with a code shown on both screens, choose whether your phone may type into Terminal, and Readwalk Control for Claude Code sessions.</p>]]></description>
+      <enclosure url="https://github.com/eur1q/readwalk-mac/releases/download/mac-v1.9/Readwalk.dmg" type="application/octet-stream" sparkle:edSignature="Lg6mybU0/ljAM1UcJoQSsxFKtAjVxySYDk6AsVev6/RP2P1Fay8VmponmO8L2JUe8ztSxqkyres8vKmIGg2pCg==" length="72179248" />
+    </item>
+    <item>
       <title>Readwalk 1.8</title>
       <pubDate>Sat, 31 Oct 2026 00:10:44 +0000</pubDate>
       <sparkle:version>202610301708</sparkle:version>
