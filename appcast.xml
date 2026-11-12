@@ -4,6 +4,15 @@
     <title>Readwalk for Mac</title>
     <link>https://readwalk.app/mac</link>
     <item>
+      <title>Readwalk 1.9.1</title>
+      <pubDate>Thu, 12 Nov 2026 18:31:28 +0000</pubDate>
+      <sparkle:version>202611110924</sparkle:version>
+      <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Readwalk Control&#x27;s window now shows whether Control is on correctly, and the Control and setup windows fit on smaller screens.</p>]]></description>
+      <enclosure url="https://github.com/eur1q/readwalk-mac/releases/download/mac-v1.9.1/Readwalk.dmg" type="application/octet-stream" sparkle:edSignature="+YOtKgqQmWR36qglVFF9WnKpaRDSzq1ceJdanDqYLn0Lpqo4P2iI3JyhXcgOIIqKN5uFSqR/1upB81UNt8uNBg==" length="72181502" />
+    </item>
+    <item>
       <title>Readwalk 1.9</title>
       <pubDate>Wed, 11 Nov 2026 07:08:22 +0000</pubDate>
       <sparkle:version>202611090920</sparkle:version>
