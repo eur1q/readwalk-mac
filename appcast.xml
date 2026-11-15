@@ -4,6 +4,15 @@
     <title>Readwalk for Mac</title>
     <link>https://readwalk.app/mac</link>
     <item>
+      <title>Readwalk 1.9.3</title>
+      <pubDate>Sun, 15 Nov 2026 07:02:24 +0000</pubDate>
+      <sparkle:version>202611142255</sparkle:version>
+      <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes a path leak in the app bundle.</p>]]></description>
+      <enclosure url="https://github.com/eur1q/readwalk-mac/releases/download/mac-v1.9.3/Readwalk.dmg" type="application/octet-stream" sparkle:edSignature="7kVTlhbZfgkSkQ7jaFYFI+Ie96nuQu0kyyDmYNO1To9SGZMdj5HnPRHnR1f6kaRfW4YSqLmwho6OayWRvvNGDw==" length="71625817" />
+    </item>
+    <item>
       <title>Readwalk 1.9.2</title>
       <pubDate>Sun, 15 Nov 2026 01:08:11 +0000</pubDate>
       <sparkle:version>202611141235</sparkle:version>
